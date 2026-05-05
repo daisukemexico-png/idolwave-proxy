@@ -1,4 +1,4 @@
-api/youtube.js
+
 // api/youtube.js
 // Vercel Serverless Function - YouTube Data API v3 プロキシ
 // CORSを解決してブラウザから安全にYouTube APIを叩けるようにする
